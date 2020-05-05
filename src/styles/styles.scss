@@ -1,0 +1,25 @@
+@import "./base/variables";
+@import "./base/base";
+
+.rw-widget-input {
+  background-color: $buttonBlue;
+  font-weight: bold;
+  color: white;
+}
+
+.rw-widget {
+  font-size: $dropdown-font-size;
+  width: $dropdown-width;
+  margin-left: $dropddwon-marginleft;
+}
+
+.rw-select {
+  background-color: $buttonBlue;
+}
+
+.rw-select:hover {
+  background-color: $buttonBlue;
+}
+.rw-i {
+  color: white;
+}
