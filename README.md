@@ -3,10 +3,17 @@ Frontend of VPN Management application written in React.js.
 There is a separate repo called 'vpn-management-backend' to run the backend (https://github.com/ali-sadri/vpn-management-backend).
 To run the application, run the backend along with frontend.
 
-Pleaser refer to the following demo video on for full understanding of Application (backend + frontend).
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Pleaser refer to the following demo video on for full understanding of Application (backend + frontend):
+
+https://drive.google.com/file/d/1ZlEv7d1bLFFzgjU1MaOrKALGfMVNKQwo/view
+
+## Admin Login Credentials:
+
+To login as admin use the following username and password:
+User Name: admin
+Password: password
 
 ## Available Scripts
 
