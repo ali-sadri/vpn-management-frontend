@@ -14,8 +14,10 @@ use QuickTime to run the video or use the free wondershare video converter to co
 
 ## Admin Login Credentials:
 
-To login as admin use the following username and password:
+To login as admin use the following username and password
+
 User Name: admin
+
 Password: password
 
 ## Available Scripts
