@@ -5,6 +5,7 @@ To run the application, run the backend along with frontend.
 
 Pleaser refer to the following demo video on for full understanding of Application (backend + frontend).
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
