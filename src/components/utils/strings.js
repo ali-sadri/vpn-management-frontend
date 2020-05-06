@@ -2,8 +2,8 @@ export default {
   BANNER_TEXT:
     "Users are to set their VPN setting when they connect and disconnect to VPN. Priority 3 users must disconnect when the available number of VPN connections goes to or below 3. Those that have been on longest should disconnect first.",
   SERVER_URL: "http://localhost:3001",
-  ADMIN_LOGIN_USER_ID: "aaa",
-  ADMIN_LOGIN_PASSWORD: "aaa",
+  ADMIN_LOGIN_USER_ID: "admin",
+  ADMIN_LOGIN_PASSWORD: "password",
   DEFAULT_SELECTED_GROUP: "IT Solution Delivery",
   ANONYMOUS: "anonymous",
   MEMBER_EXISTS_MSG: "Member already exist in the group",
