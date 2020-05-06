@@ -5,9 +5,12 @@ To run the application, run the backend along with frontend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Pleaser refer to the following demo video on for full understanding of Application (backend + frontend):
+## Pleaser refer to the following demo video for full understanding of Application:
 
 https://drive.google.com/file/d/1ZlEv7d1bLFFzgjU1MaOrKALGfMVNKQwo/view
+
+Windows users: to run the above video, if you are running a windows media player older than verion 12, you need to either
+use QuickTime to run the video or use the free wondershare video converter to convert the .mov file to any windows video formats.
 
 ## Admin Login Credentials:
 
